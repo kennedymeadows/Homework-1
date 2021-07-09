@@ -48,4 +48,5 @@ private:
    void setWinner(int);
 };
 
+// This is a new line of text
 #endif
